@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99abb756587392144ae46340af1a72d7, type: 3}
+  m_Name: wario
+  m_EditorClassIdentifier: 
+  life: 7
+  move_speed: 2
+  sprite: {fileID: 21300000, guid: 5629a14a18bbc28409e4d8388d0ff0d5, type: 3}
+  size: 0.2
+  color: {r: 1, g: 1, b: 1, a: 1}
+  gold: 5
+  value: 5

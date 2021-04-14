@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Behaviors\EnemyBehavior.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DirectionEnum.cs" Line="8" Column="5" />
+      <File FileName="Assets\Scripts\ScriptableObjects\Enemy.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\ScriptableObjects\Projectile.cs" Line="8" Column="21" />
+      <File FileName="Assets\Scripts\ScriptableObjects\Tower.cs" Line="17" Column="36" />
+      <File FileName="Assets\Scripts\ScriptableObjects\Wave.cs" Line="14" Column="1" />
+      <File FileName="Assets\Scripts\Player\Player.cs" Line="24" Column="21" />
+      <File FileName="Assets\Scripts\Behaviors\EnemySpawnerBehavior.cs" Line="56" Column="21" />
+      <File FileName="Assets\Scripts\Behaviors\EnemyBehavior.cs" Line="59" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
